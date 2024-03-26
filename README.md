@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ghani</h1>
 <h3 align="center">I am a 🖥️ Computer Science student at Carnegie Mellon University with minors in 💵 Business Administration and 🧠📶 Neural Computation</h3>
+
 - 🌎 I am passionate about  **Web Development** and have some projects in my repositories that showcase my skill 
+
 - 🔭 I’m currently working on **developing a solar panel cleaning drone with reinforcement learning flight controls**
+
 - 🧠 In the meantime, I am deepening my knowledge in **Neuroscience** and mastering skills in **Brain-Computer Interface**
 
 - 📫 How to reach me **graissov@andrew.cmu.edu**
